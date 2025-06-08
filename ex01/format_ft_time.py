@@ -7,7 +7,9 @@ Oct 21 2022$
 
 reference :
 1 Jan 1970 (unix date) : https://www.unixtimestamp.com/
-F-string format : https://www.geeksforgeeks.org/python-strftime-function/
+Current timestamp : https://www.geeksforgeeks.org/get-current-timestamp-using-python/
+print format time (strftime) : https://www.geeksforgeeks.org/python-strftime-function/
+F-string : https://builtin.com/data-science/python-f-string
 """
 
 import time
