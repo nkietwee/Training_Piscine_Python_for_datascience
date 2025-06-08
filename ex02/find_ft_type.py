@@ -10,6 +10,7 @@ from passing a string or floating-point number to the function at runtime.
 
 ref
 Type Hints in Python : https://www.geeksforgeeks.org/type-hints-in-python/
+type and isinstance in Python : https://www.geeksforgeeks.org/type-isinstance-python/
 """
 
 
